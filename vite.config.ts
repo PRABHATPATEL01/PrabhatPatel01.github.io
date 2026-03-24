@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/prabhat_patel/', // This must match your repo name exactly
+  base: '/', // This must match your repo name exactly
   plugins: [react()],
 })
